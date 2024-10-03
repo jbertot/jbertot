@@ -1,7 +1,21 @@
-- 👋 Hi, I’m @jbertot
-- 📫 You can reach me on Telegram @bertot
+---
+cover: .gitbook/assets/Introduction.png
+coverY: 0
+layout:
+  cover:
+    visible: true
+    size: full
+  title:
+    visible: false
+  description:
+    visible: false
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: false
+---
 
-<!---
-jbertot/jbertot is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+# Introduction
+
