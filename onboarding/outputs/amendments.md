@@ -21,7 +21,7 @@ layout:
 
 <figure><img src="../../.gitbook/assets/Amendments - Sample Doc" alt=""><figcaption><p>Amendments - Sample Doc</p></figcaption></figure>
 
-In the course of a valuation assignment, circumstances may change, requiring modifications to the original Terms of Engagement (TOE). InterVal's Amendment feature allows valuation professionals to create and manage additional contracts that supplement or modify the initial TOE, ensuring that the valuation process remains flexible and adaptable to evolving needs.
+In the course of a valuation assignment, circumstances may change, requiring modifications to the original Terms of Engagement (TOE). InterVal's 'Amendment' feature allows valuation professionals to create and manage additional contracts that supplement or modify the initial TOE, ensuring that the valuation process remains flexible and adaptable to evolving needs.
 
 The Amendment feature enables users to perform four main actions:
 
@@ -43,7 +43,7 @@ The Amendment feature enables users to perform four main actions:
    * This amendment prompts the creation of an Informed Consent document, which outlines the nature of the conflict and seeks the client's acknowledgment and consent to proceed with the valuation.
    * Declaring conflicts of interest through amendments maintains transparency and compliance with professional ethics and standards.
 
-The Amendment feature in InterVal streamlines the process of creating and managing these additional contracts. Users can easily generate amendment documents that are pre-populated with relevant information from the original TOE, ensuring consistency and accuracy.
+The 'Amendment' feature in InterVal streamlines the process of creating and managing these additional contracts. Users can easily generate amendment documents that are pre-populated with relevant information from the original TOE, ensuring consistency and accuracy.
 
 Amendments are securely stored within the InterVal platform, linked to the corresponding TOE, and accessible to all authorized parties. This centralized storage ensures that all stakeholders have access to the most up-to-date and complete set of documents governing the valuation assignment.
 

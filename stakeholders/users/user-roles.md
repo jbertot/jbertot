@@ -19,7 +19,9 @@ layout:
 
 # User Roles
 
-Explore the flexibility of defining user roles within InterVal. This section guides you through creating and managing various roles, each with customizable access levels to system features. Learn how to tailor user permissions to enhance security and operational efficiency, ensuring that every team member has the access they need.
+This section guides you through the process of creating and managing various roles, each with customizable levels of access to the system's features. Learn how to tailor user permissions to enhance security and operational efficiency, ensuring that every team member has the access they need.&#x20;
+
+Explore the flexibility of defining user roles within InterVal. Review the numbered labels on the screenshots below and read the associated text to learn more about the different features on this page.
 
 ## 1 - Role List Table
 
@@ -34,11 +36,13 @@ This screenshot provides a clear view of the User Roles main page, showcasing th
 
 ## 2 - **Role Creation and Permissions Setup**
 
-This interface is where the precision of user access begins. Define a new role or edit an existing one by naming it and selecting the specific permissions from the comprehensive list below.
+You can access this interface by clicking on the 'New Role' button. This 'Add New Role' interface is where the precision of user access begins. Define a new role by entering  name for the role and selecting the specific permissions to records and features from the comprehensive list below.&#x20;
+
+You can access a nearly identical interface for editing existing roles by clicking on the blue pencil icon 'Edit Role' button.
 
 <figure><img src="../../.gitbook/assets/User Roles - Form" alt=""><figcaption><p><strong>Role Creation and Permissions Setup</strong></p></figcaption></figure>
 
-1. **Role Name Input:** Enter a unique name for the role here. The name should reflect the level of access or the job function, such as 'Administrator' or 'Valuation Analyst.
-2. **Permissions Checklist:** Check the boxes next to each page or record type to grant access. Unchecked boxes mean the role will not have any access to those items.
+1. **Role Name Input:** Enter a unique name for the role here. The name should reflect the level of access or the job function, such as 'Administrator' or 'Valuation Analyst. You can also edit the names of existing roles.
+2. **Permissions Checklist:** Check the boxes next to each page or record type to grant access. Unchecked boxes mean the role will not have any access to those items. You can also add or delete permissions for existing roles.
 3. **Edit Rights Option:** When this is selected, users with the role can add, edit, or remove records on the corresponding pages, allowing full management capabilities.
 4. **View-Only Rights Option:** This option limits the role to viewing records only, without the ability to make changes, suitable for roles that require oversight but not editing rights.

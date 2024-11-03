@@ -40,5 +40,5 @@ layout:
 * [ ] [**12 - Create an Amendment:**](../../workflow/management/amendments.md) Update the original ToE as needed.
 * [ ] [**13 - Manage Payments:**](../../workflow/assignments/terms-of-engagement-form/payment.md) Track and process payments for services.
 * [ ] [**14 - Manage & Publish Your Audit Trail:**](../../workflow/management/audit-trail/) Maintain and share a clear audit trail of activities.
-* [ ] [**15 - Discover the Online Repository:**](../../workflow/management/online-repository/) Securely share multimedia files with clients.
+* [ ] [**15 - Discover the Online Repository:**](../../workflow/management/online-repository/) Securely share files, images and multimedia with clients.
 * [ ] [**16 - How to Complete a Project:**](../../workflow/management/completing-a-project.md) Finalize and close out the valuation project.

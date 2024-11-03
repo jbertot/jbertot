@@ -25,12 +25,12 @@ Invoicing is an essential aspect of the property valuation process, as it ensure
 
 Key aspects of the Invoicing feature include:
 
-1. **Invoice creation:** Valuers can easily create invoices for their valuation services directly within the InterVal platform. The invoices can be automatically populated with relevant information from the valuation assignment, such as the property details, valuation date, and agreed-upon fees.
+1. **Invoice creation:** Valuers can easily create invoices for their valuation services directly within the InterVal platform. The invoices can be automatically populated with relevant information from the valuation assignment, such as the client, the property details, the valuation date, and agreed-upon fees.
 2. **Customizable templates:** InterVal provides customizable invoice templates that can be tailored to meet the specific needs and branding requirements of individual valuers or valuation firms. This ensures a professional and consistent appearance for all invoices generated through the platform.
 3. **Billing methods:** The Invoicing feature supports various billing methods, such as fixed fees, hourly rates, or percentage-based fees, depending on the terms agreed upon in the Terms of Engagement (TOE).
 4. **Payment tracking:** Valuers can track the status of their invoices within InterVal, including whether they have been issued, paid, or are overdue. This helps valuers stay organized and follow up on outstanding payments when necessary.
-5. **Reporting and analytics:** InterVal provides reporting and analytics tools that allow valuers to gain insights into their invoicing and payment trends, helping them to make informed business decisions and manage their cash flow effectively.
+5. **Reporting and analytics:** InterVal provides reporting and analytical tools that allow valuers to gain insights into their invoicing and payment trends. This helps valuers to make informed business decisions and manage their cash flow effectively.
 
-By centralizing and automating the invoicing process, InterVal's Invoicing feature helps valuers save time, reduce administrative errors, and improve their financial management. This allows them to focus on delivering high-quality valuation services to their clients while ensuring that they are fairly compensated for their work.
+By centralizing and automating the invoicing process, InterVal's Invoicing feature saves time, reduces administrative errors, and improves financial management. This allows valuers to focus on what they do best - delivering high-quality valuation services to their clients.
 
 Moreover, the Invoicing feature contributes to the overall transparency and professionalism of the valuation process by providing a clear and auditable record of the fees charged and payments received for each valuation assignment. This can be particularly important in the event of any disputes or legal challenges related to the valuation service.

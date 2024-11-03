@@ -26,7 +26,7 @@ A Draft Statement, in the context of property valuation, is a document that prov
 The Draft Statement typically includes the following information:
 
 1. **Valuation purpose:** A brief description of the reason for the valuation and its intended use.
-2. **Property identification:** A general description of the subject property, omitting any sensitive details.
+2. **Property description:** A general description of the subject property, omitting any sensitive details.
 3. **Valuation date:** The effective date of the valuation.
 4. **Valuation methodology:** A high-level overview of the valuation approach and methods used, without disclosing proprietary techniques or confidential data.
 5. **Valuation conclusion:** The valuer's opinion of the property's value, presented as a range or a general statement, rather than a specific figure.
@@ -35,4 +35,4 @@ The Draft Statement typically includes the following information:
 
 The Draft Statement is carefully prepared to ensure that it provides sufficient information for third parties to understand the general scope and outcome of the valuation, while protecting the client's confidential information and the valuer's proprietary methods. It is not intended to be a substitute for the full valuation report, which remains confidential between the valuer and the client.
 
-InterVal's Draft Statement feature helps valuers create these summary documents efficiently, ensuring that they can communicate the necessary information to third parties while maintaining the confidentiality of sensitive data and complying with professional standards.
+InterVal's Draft Statement feature helps valuers create these summary documents efficiently, ensuring that they align perfectly with other reports and data in the system, while maintaining the confidentiality of sensitive information. These reports thus communicate the necessary information to third parties while complying with confidentiality and other professional standards.

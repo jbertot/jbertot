@@ -31,7 +31,7 @@ The Audit Trail Report typically includes the following information:
 4. **Timestamps:** Each action or event in the report is accompanied by a precise timestamp, indicating when it occurred.
 5. **User Identification:** The report identifies the user responsible for each action or decision, providing accountability and transparency.
 
-In addition to the automated logging of actions and changes, InterVal allows users to manually add audit trail interactions during and after the valuation process. This feature enables valuation professionals to document any additional notes, justifications, or discussions that may not be captured automatically by the system.
+In addition to the automated logging of actions and changes, InterVal allows users to manually add audit trail interactions during the various stages of the the valuation exercise and after the valuation process. This feature enables valuation professionals to document any additional notes, justifications, or discussions that may not be captured automatically by the system.
 
 The Audit Trail Report can be generated in the "Online Repository" section of the valuation, making it easily accessible to both the valuation professional and their client. By granting the client access to this page, they can view and generate the report independently, promoting transparency and trust in the valuation process.
 

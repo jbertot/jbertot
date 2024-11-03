@@ -19,11 +19,11 @@ layout:
 
 # Agency Form
 
-**The New/Edit Agency form in InterVal allows you to create a new agency or modify an existing one within your organization. This form is divided into seven tabs, each focusing on a specific aspect of the agency's information. The tabs include General Information, Valuation Matter, Legal, Payment, Invoicing, Design, and Settings. By filling out the relevant details in each tab, you can comprehensively define the agency's profile, preferences, and operational parameters.**
+**The 'New/Edit Agency' form in InterVal allows you to create a new agency or modify an existing one within your organization. This form is divided into seven tabs, each focusing on a specific aspect of the agency's information. The tabs include 'General Information', 'Valuation Matter', 'Legal', 'Payment', 'Invoicing', 'Design', and 'Settings'. By filling out the relevant details in each tab, you can comprehensively define the agency's profile, preferences, and operational parameters.**
 
-## 1 - Tab 1 - General Information
+## Tab 1 - General Information
 
-The General Information tab is the first section of the New/Edit Agency form. This tab captures the essential details of the agency, such as its official name, legal name, contact information, and address. By providing accurate and up-to-date information in this tab, you establish a clear identification of the agency within your organization. The General Information tab serves as the foundation for the agency's profile and ensures that all necessary contact and location details are readily available for reference and communication purposes.
+The 'General Information' tab is the first section of the 'New/Edit Agency' form. This tab captures the essential details of the agency, such as its official name, legal name, contact information, and address. By providing accurate and up-to-date information in this tab, you establish a clear identification of the agency within your organization. The General Information tab serves as the foundation for the agency's profile and ensures that all necessary contact and location details are readily available for reference and communication purposes.
 
 <figure><img src="../../.gitbook/assets/Agency Form - Tab 1 - General Information" alt=""><figcaption><p>Agency Form - Tab 1 - General Information</p></figcaption></figure>
 
@@ -39,9 +39,9 @@ The General Information tab is the first section of the New/Edit Agency form. Th
 10. **City:** Choose the city where the agency is situated from the dropdown list.
 11. **Zipcode/Postcode:** Enter the zipcode or postcode corresponding to the agency's address.
 
-## 2 - Tab 2 - Valuation Matter
+## Tab 2 - Valuation Matter
 
-The Valuation Matter tab in the New/Edit Agency form is designed to capture essential information related to the agency's valuation practices, ensuring consistency and transparency in their process. This tab allows you to define default settings such as the matter to be assigned, valuation currency, property type and subtype, valuation method, and valuation and inspection dates. By establishing these defaults, you can streamline the project setup process, ensure adherence to industry best practices, and promote efficiency and coordination among team members throughout the valuation process.
+The 'Valuation Matter' tab in the 'New/Edit Agency' form is designed to capture essential information related to the agency's valuation practices, ensuring consistency and transparency in their process. This tab allows you to define default settings such as the matter to be assigned, valuation currency, property type and subtype, valuation method, and valuation and inspection dates. By establishing these defaults, you can streamline the project setup process, ensure adherence to industry best practices, and promote efficiency and coordination among team members throughout the valuation process.
 
 <figure><img src="../../.gitbook/assets/Agency Form - Tab 2 - Valuation Matter" alt=""><figcaption><p>Agency Form - Tab 2 - Valuation Matter</p></figcaption></figure>
 
