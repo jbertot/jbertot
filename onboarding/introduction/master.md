@@ -21,7 +21,7 @@ layout:
 
 <figure><img src="../../.gitbook/assets/Asset 2.png" alt="" width="375"><figcaption></figcaption></figure>
 
-**Welcome to InterVal, revolutionary software transforming property valuation. Designed to empower valuers, InterVal streamlines processes for efficiency, compliance, and exceptional results.**
+**Welcome to InterVal, the revolutionary software package that is transforming the property valuation landscape. Designed to empower valuers, InterVal streamlines the real estate valuation process, improving efficiency, guaranteeing compliance, and delivering exceptional results.**
 
 {% embed url="https://www.youtube.com/watch?t=5s&v=QBHIKNIKRXo" %}
 InterVal- Explainer Video
@@ -29,17 +29,18 @@ InterVal- Explainer Video
 
 ## **1 - Key Features and Benefits**
 
-With InterVal, you can:
+Our research indicates that InterVal provides the following benefits:
 
-* **Efficiency:** Complete valuations up to 3 times faster.
-* **Compliance:** Guarantee 100% adherence to RICS, IVS, and IFRS standards.
-* **Quality:** Deliver consistent, high-quality reports that impress clients.
-* **Competitive Edge:** Leverage advanced tools for market advantage.
+* **Efficiency:** Complete valuations up to 10 times faster.
+* **Compliance:** Guaranteed, 100% adherence to all RICS, IVS, and IFRS standards, in line with the latest annual updates.
+* **Quality:** Deliver consistent, visually pleasing, impactful, high-quality reports that will impress clients.
+* **Collaboration:** Assign sequential or dependent tasks to different team members, set deadlines and automatically trigger alerts or reminder.
+* **Competitive Edge:** Leverage advanced analytical tools to outperform the competition
 
 ## **2 - Compliance with Global Standards**
 
-InterVal ensures full compliance with RICS, IVS, and IFRS standards, providing professional credibility and accuracy in every valuation.
+InterVal ensures full compliance with the latest RICS, IVS, and IFRS standards, providing professional credibility and impeccable accuracy in every valuation exercise.
 
 ## **3 - User Guidance**
 
-Designed for both seasoned professionals and beginners, this documentation guides you through InterVal’s features and best practices, unlocking its full potential.
+InterVal was designed for seasoned professional valuers and appraisers but it is simple enough for beginners to use. This knowledge base will guide you through InterVal’s features, helping you to unlock the program’s full potential.

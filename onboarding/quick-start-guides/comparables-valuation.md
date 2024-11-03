@@ -17,15 +17,15 @@ layout:
     visible: true
 ---
 
-# Comparable Valuation
+# Comparables Valuation
 
-**This step-by-step guide walks you through the process of conducting your first valuation using the comparable methodology in InterVal. Follow these steps to ensure a smooth and efficient valuation process.**
+**This step-by-step guide walks you through the process of conducting your first valuation using the comparables approach or comparables method in InterVal. Follow these steps to ensure a smooth and efficient valuation process.**
 
 ## 1 - Mandatory First Steps:
 
 * [ ] [**1 - Create Your First Assignment:**](../../workflow/assignments/) Organize your Terms of Engagement (ToEs) and valuation projects.
 * [ ] [**2 - Learn How to Manage Your ToEs:**](../../workflow/assignments/terms-of-engagement-list.md) Learn to create, edit, and track your ToEs.
-* [ ] [**3 - Create Your First ToE:**](../../workflow/assignments/terms-of-engagement-form/) Complete tabs for general information, target properties, conflicts of interest, disclosures, delivery, and payment details.
+* [ ] [**3 - Create Your First ToE:**](../../workflow/assignments/terms-of-engagement-form/) Complete the tabs for 'general information', 'target properties', 'conflicts of interest', 'disclosures', 'delivery', and 'payment details'.
 * [ ] [**4 - Discover the Valuation Dashboard:**](../../workflow/dashboard/) Access key features and monitor your valuation projects.
 * [ ] [**5 - Mandatory First Steps of a Valuation:**](../../workflow/management/starting-a-project.md) Record signed contracts..
 * [ ] [**6 - Prepare the Logistics of Your Inspection:**](../../workflow/investigation/logistics/) Schedule and plan your property inspection.

@@ -9,7 +9,7 @@
 * [Quick Start Guides](onboarding/quick-start-guides/README.md)
   * [Configuration](onboarding/quick-start-guides/configuration.md)
   * [Organising your data](onboarding/quick-start-guides/organising-your-data.md)
-  * [Comparable Valuation](onboarding/quick-start-guides/comparable-valuation.md)
+  * [Comparables Valuation](onboarding/quick-start-guides/comparables-valuation.md)
   * [Miscellaneous](onboarding/quick-start-guides/miscellaneous.md)
 * [Outputs](onboarding/outputs/README.md)
   * [Terms of Engagement](onboarding/outputs/terms-of-engagement.md)

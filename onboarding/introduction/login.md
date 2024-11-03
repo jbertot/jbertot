@@ -19,7 +19,7 @@ layout:
 
 # Login Page
 
-**To access the powerful features of InterVal and begin transforming your property valuation workflow, you'll need to log into the system using your registered email address and password.**
+**To access the powerful features of InterVal and begin transforming your property valuation workflow, you will need to log into the system using the email address and password that you registered with or that was given to you by your account administrator**
 
 <figure><img src="../../.gitbook/assets/Login Page" alt=""><figcaption><p>Login Page</p></figcaption></figure>
 
@@ -29,6 +29,7 @@ layout:
 2. Input your password in the "Password" field.
 3. Click the "Login" button to access your InterVal account.
 
-If you've forgotten your password, click the "Forgot password?" link to reset it securely.
+If you have forgotten your password, click the "Forgot password?" link to reset it securely. The system will email you instructions regarding how to reset your password and recover your account.
 
-Once logged in, you'll be directed to the main dashboard, where you can explore InterVal's comprehensive suite of tools and begin streamlining your valuation projects.
+Once logged in, you will be directed to the main dashboard, where you can explore InterVal's comprehensive suite of tools and begin streamlining your valuation projects.
+
