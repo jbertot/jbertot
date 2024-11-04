@@ -21,6 +21,8 @@ layout:
 
 **The client section is where you manage and store basic information about your clients. This section allows you to create, edit, and view client profiles, including their contact details, company information (if applicable), and associated terms of engagement. You can also add new clients directly from the Terms of Engagement form for streamlined data entry.**
 
+Review the numbered labels on the screenshots below and read the associated text to learn more about the different features on this page.
+
 ## 1 - Client List Page
 
 The client list provides an overview of all clients registered in the system. It displays key information such as the client's name, type (company or individual), country, city, and the number of associated terms of engagement. The list also offers search and filtering options to help you quickly find specific clients.
@@ -56,8 +58,8 @@ The client form for companies allows you to add or edit information about a comp
 9. **First Name:** Enter the first name of the primary contact person for the company.
 10. **Add Contact:** Click this button to add additional contacts associated with the company.
 11. **Contact Details:** Displays the contact information for each added contact, including their name, role, email, and phone number.
-12. **SIRET:** Enter the company's SIRET (Système d'Identification du Répertoire des Établissements) number, a unique identification number for businesses in France.
-13. **Add Registration #:** Click this button to add additional registration numbers for the company, such as VAT or tax identification numbers.
+12. **Registration Number:** This table lists any registration numbers or other unique identifiers (tax IDs, permit codes, etc.) associated with the company.
+13. **Add Registration #:** Click this button to add other registration numbers for the company, such as VAT or tax identification numbers.
 14. **Registration Details:** Displays the added registration numbers, including the type (e.g., VAT) and the corresponding number.
 
 ## 3 - Client Form (Individual)
