@@ -19,7 +19,9 @@ layout:
 
 # Agencies List
 
-**InterVal's multiple-agency feature provides you with the flexibility to manage your organization's different agencies effectively. This powerful tool allows you to customize templates, clauses, and work processes according to each agency's specific requirements and locations. With this feature, users can seamlessly work across multiple agencies without being restricted to a single one, enhancing productivity and adaptability within your organization.**
+**InterVal's multiple-agency feature provides you with the flexibility to manage your organization's different agencies effectively. This powerful tool allows you to customize templates, clauses, and work processes according to each agency's specific requirements and locations. With this feature, users can seamlessly work across multiple agencies, enhancing productivity and adaptability within your organization.**
+
+Review the numbered labels on the screenshots below and read the associated text to learn more about the different features on this page.
 
 <figure><img src="../../.gitbook/assets/Agency Page" alt=""><figcaption><p>Agency table</p></figcaption></figure>
 

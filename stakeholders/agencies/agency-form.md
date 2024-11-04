@@ -21,6 +21,8 @@ layout:
 
 **The 'New/Edit Agency' form in InterVal allows you to create a new agency or modify an existing one within your organization. This form is divided into seven tabs, each focusing on a specific aspect of the agency's information. The tabs include 'General Information', 'Valuation Matter', 'Legal', 'Payment', 'Invoicing', 'Design', and 'Settings'. By filling out the relevant details in each tab, you can comprehensively define the agency's profile, preferences, and operational parameters.**
 
+Review the numbered labels on the screenshots below and read the associated text to learn more about the different features on this page.
+
 ## Tab 1 - General Information
 
 The 'General Information' tab is the first section of the 'New/Edit Agency' form. This tab captures the essential details of the agency, such as its official name, legal name, contact information, and address. By providing accurate and up-to-date information in this tab, you establish a clear identification of the agency within your organization. The General Information tab serves as the foundation for the agency's profile and ensures that all necessary contact and location details are readily available for reference and communication purposes.
@@ -51,11 +53,11 @@ The 'Valuation Matter' tab in the 'New/Edit Agency' form is designed to capture 
    _<mark style="color:orange;">**Example:**</mark> <mark style="color:orange;"></mark><mark style="color:orange;">ABC Valuation Agency specializes in providing accurate and reliable valuation services for residential and commercial properties in the Greater London area. With over 15 years of experience, our team of RICS-certified valuers has a deep understanding of the local property market and its unique dynamics. We have a proven track record of delivering high-quality valuation reports for a diverse range of clients, including banks, investors, and property developers. Our expertise extends to complex valuation cases, such as mixed-use developments and properties with unique architectural features.</mark>_
 4. **Source of data:** Specify the primary source(s) of data used by the agency for their valuation projects. Examples include property databases (e.g., PropertyData, CoStar, Rightmove), government sources (e.g., Land Registry, ONS), market reports from professional bodies (e.g., RICS, CBRE, JLL), local estate agents and property professionals, and internal company database and previous valuation records.\
    _<mark style="color:orange;">**Example:**</mark> <mark style="color:orange;"></mark><mark style="color:orange;">Our valuation process relies on a comprehensive range of data sources to ensure accuracy and reliability. We utilize property databases such as PropertyData and CoStar to access extensive market information, including recent sales, rental data, and property characteristics. Additionally, we gather data from government sources like the Land Registry and the Office for National Statistics to monitor market trends and economic indicators. Our valuers also maintain strong relationships with local estate agents and property professionals to gain insights into off-market transactions and emerging trends. Finally, we continuously update and refer to our internal database of previous valuation cases to ensure consistency and benchmark our findings against historical data.</mark>_
-5. **Complaints handling procedure:** Provide an overview of the agency's procedure for handling complaints related to their valuation services. This may include acknowledging the complaint in writing within 3 working days, assigning a senior manager to investigate and liaise with the complainant, conducting a thorough investigation, providing a written response within 15 working days, escalating unresolved issues to the agency's director, and maintaining a complaint register for regular analysis and improvement.\
-   _<mark style="color:orange;">**Example:**</mark> <mark style="color:orange;"></mark><mark style="color:orange;">At ABC Valuation Agency, we are committed to providing exceptional service and maintaining the highest standards of professionalism. In the event of a complaint, we follow a structured procedure to ensure a prompt and fair resolution. Upon receiving a complaint, we acknowledge receipt in writing within 3 working days and assign a senior manager to investigate the matter and liaise with the complainant. The manager conducts a thorough investigation, gathering relevant information and evidence, and provides a written response to the complainant within 15 working days, outlining the findings and any proposed resolution. If the complainant is not satisfied with the response, the matter is escalated to the agency's director for further review. We maintain a complaint register and regularly analyze complaints to identify areas for improvement in our processes and services, ensuring continuous enhancement of our valuation offerings.</mark>_
+5. **Complaints handling procedure:** Provide an overview of the agency's procedure for handling complaints related to their valuation services. This may include acknowledging the complaint in writing within 3 working days, assigning a senior manager to investigate and liaise with the person or entity filing the complaint, conducting a thorough investigation, providing a written response within 15 working days, escalating unresolved issues to the agency's director, or maintaining a complaint register for regular analysis and improvement.\
+   _<mark style="color:orange;">**Example:**</mark> <mark style="color:orange;"></mark><mark style="color:orange;">At ABC Valuation Agency, we are committed to providing exceptional service and maintaining the highest standards of professionalism. In the event of a complaint, we follow a structured procedure to ensure a prompt and fair resolution. Upon receiving a complaint, we acknowledge receipt in writing within 3 working days and assign a senior manager to investigate the matter and liaise with the complainant. If the complainant is not satisfied with the response, the matter is escalated to the agency's director for further review. We maintain a complaint register and regularly analyze complaints to identify areas for improvement in our processes and services, ensuring continuous enhancement of our valuation offerings.</mark>_
 6. **Documents:** This section allows you to attach relevant documents associated with the agency. Click the "Add" button to upload files, specifying the document type, title, and expiration date (if applicable). You can also set the "Automatically insert to all reports" option to include the document in all valuation reports generated by the agency.
 
-## 3 - Tab 3 - Legal
+## Tab 3 - Legal
 
 In this tab, you can add additional terms to your Terms of Engagement (T.O.E). These terms will be placed either before the signature section or in the "Delivery, Fees & Condition" section, providing flexibility in customizing your T.O.E.
 
@@ -69,7 +71,7 @@ In this tab, you can add additional terms to your Terms of Engagement (T.O.E). T
 6. **Term Content:** Write the content of your new additional term in this field.
 7. **Insertion Location:** Select where this term will be inserted, either in the "Signature Section" or "Delivery, Fees & Condition" section of your T.O.E.
 
-## 4 - Tab 4 - Payment
+## Tab 4 - Payment
 
 In this tab, you can tailor how your agency handles extra work hours for an assignment, specifying the hourly rate, currency, and any applicable free hours or post-valuation services.
 
@@ -83,7 +85,7 @@ In this tab, you can tailor how your agency handles extra work hours for an assi
 6. **Post-Valuation Services:** Provide a definition of the post-valuation report services offered. \
    _<mark style="color:orange;">**Example:**</mark> <mark style="color:orange;"></mark><mark style="color:orange;">"Post-valuation services include responding to client queries, providing additional supporting documentation, and attending meetings or calls related to the completed valuation, up to the specified number of free hours."</mark>_
 
-## 5 - Tab 3 - Invoicing
+## Tab 5 - Invoicing
 
 In this tab, you can configure the necessary information for your invoices, such as payment details, disclaimers, and registration numbers.
 
@@ -94,11 +96,11 @@ In this tab, you can configure the necessary information for your invoices, such
 2. **Text Styling:** Use these options to add styles to the payment/banking details text.
 3. **Disclaimer:** Provide a short disclaimer to be included in your invoices. \
    _<mark style="color:orange;">**Example:**</mark> <mark style="color:orange;"></mark><mark style="color:orange;">"This invoice is due within 30 days of the issue date. Late payments may be subject to additional fees and interest charges."</mark>_
-4. **Registration Numbers:** Click this button to open a modal where you can add several registration numbers, such as VAT or tax numbers.
+4. **Registration Numbers:** Click this button to open a module where you can add several registration numbers, such as VAT or tax numbers.
 5. **Registration Name:** Write the name of your registration (e.g., "VAT Registration").
 6. **Registration Number:** Input the reference number for your registration.
 
-## 6 - Tab 3 - Design
+## Tab 6 - Design
 
 In this tab, you can configure the appearance of your reports by changing the logo, cover picture, color scheme, fonts, and other design elements.
 
@@ -108,14 +110,14 @@ In this tab, you can configure the appearance of your reports by changing the lo
 2. **Upload:** Click this button to upload a new logo or cover picture.
 3. **Delete:** Click this button to delete the currently uploaded logo or cover picture.
 4. **View:** Click this button to view the currently uploaded logo or cover picture.
-5. **Color Scheme:** Click this button to open a modal (Modal 6) where you can pick a color scheme for your reports.
+5. **Color Scheme:** Click this button to open a module (Module 6) where you can pick a color scheme for your reports.
 6. **Color Picker:** Use this tool to select a color for your reports.
 7. **Font Selector:** Choose a font for your reports from the available options.
 8. **Restore Default:** Click this button to restore the default design settings for the current report.
 9. **Preview:** Click this button to view an example of the report design with your selected settings.
 10. **Reset All:** Click this button to reset all design settings across your reports.
 
-## 7 - Tab 3 - Settings
+## Tab 7 - Settings
 
 In this tab, you will find general settings that apply to all valuation works performed by the agency, such as the floor numbering scheme.
 
