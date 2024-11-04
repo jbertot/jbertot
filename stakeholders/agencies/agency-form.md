@@ -96,7 +96,7 @@ In this tab, you can configure the necessary information for your invoices, such
 2. **Text Styling:** Use these options to add styles to the payment/banking details text.
 3. **Disclaimer:** Provide a short disclaimer to be included in your invoices. \
    _<mark style="color:orange;">**Example:**</mark> <mark style="color:orange;"></mark><mark style="color:orange;">"This invoice is due within 30 days of the issue date. Late payments may be subject to additional fees and interest charges."</mark>_
-4. **Registration Numbers:** Click this button to open a module where you can add several registration numbers, such as VAT or tax numbers.
+4. **Registration Numbers:** Click this button to open a modal window where you can add several registration numbers, such as VAT or tax numbers.
 5. **Registration Name:** Write the name of your registration (e.g., "VAT Registration").
 6. **Registration Number:** Input the reference number for your registration.
 
@@ -110,7 +110,7 @@ In this tab, you can configure the appearance of your reports by changing the lo
 2. **Upload:** Click this button to upload a new logo or cover picture.
 3. **Delete:** Click this button to delete the currently uploaded logo or cover picture.
 4. **View:** Click this button to view the currently uploaded logo or cover picture.
-5. **Color Scheme:** Click this button to open a module (Module 6) where you can pick a color scheme for your reports.
+5. **Color Scheme:** Click this button to open a modal window (Modal 6) where you can pick a color scheme for your reports.
 6. **Color Picker:** Use this tool to select a color for your reports.
 7. **Font Selector:** Choose a font for your reports from the available options.
 8. **Restore Default:** Click this button to restore the default design settings for the current report.
