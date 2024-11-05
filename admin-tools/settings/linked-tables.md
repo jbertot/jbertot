@@ -42,7 +42,7 @@ This screen shows all the options available for a specific dropdown field. You c
 
 1. **Back Button:** Click to go back to the main page.
 2. **Add New Option:** Click to add a new option to the field.
-3. **Subtypes Browse:** Fields may be arranged by subtypes, so click here to browse them.
+3. **Subtypes Browse:** Fields may be arranged by subtypes, so click here to browse the various subtypes.
 4. **Hide Option:** Hide an option from the system (deletion is impossible unless the field option has been entered by one of your organization's users and the option has not yet been used in one of the projects in the system).
 5. **View Details:** View the option details.
 
