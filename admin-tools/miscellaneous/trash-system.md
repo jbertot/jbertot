@@ -21,11 +21,11 @@ layout:
 
 <figure><img src="../../.gitbook/assets/Trash System" alt=""><figcaption><p>Trash System</p></figcaption></figure>
 
-The Trash Function is a system-wide feature in InterVal that allows users to delete items from various list pages, providing a safe and recoverable way to manage data. This function is available for items that are not currently being used in any active process, ensuring data integrity and preventing unintended consequences.
+**The Trash Function is a system-wide feature in InterVal that allows users to delete items from various list pages, providing a safe and recoverable way to manage data. This function is available for items that are not currently being used in any active process, ensuring data integrity and preventing unintended consequences.**
 
 **Deleting Items:** To delete an item from a list page, users can simply click on the trash icon associated with the specific item they wish to remove. This action moves the item to the trash, removing it from the active list but not permanently deleting it from the system.
 
-**Trash System Indicator:** Once an item has been moved to the trash, a trash system indicator will appear at the top right of the page, displaying the number of items currently in the trash. This indicator serves as a visual reminder that there are deleted items that may require further action.
+**Trash System Indicator:** Once an item has been moved to the trash, a trash system indicator will appear at the top right of the page ("Trashed (x)"), displaying the number of items currently in the trash. This indicator only appears if an item has been added to the trash system. It serves as a visual reminder that there are deleted items that may require further action.
 
 **Restoring or Permanently Deleting Items:** By clicking on the trash system indicator, users can access a modal window that presents them with two options:
 
@@ -42,4 +42,4 @@ The Trash Function is a system-wide feature in InterVal that allows users to del
 
 <figure><img src="../../.gitbook/assets/Admin Trash" alt=""><figcaption><p>Admin Trash</p></figcaption></figure>
 
-By implementing the Trash Function, InterVal offers a robust and user-friendly system for managing data deletions. The multi-stage deletion process, combined with the ability to restore items at various levels and the extended retention period, ensures that users can confidently remove items from their lists without the fear of permanently losing important information. This feature enhances the overall user experience and provides peace of mind when working with valuable data within the InterVal platform.
+With the Trash Function, InterVal offers a robust and user-friendly system for managing data deletions. The multi-stage deletion process, combined with the ability to restore items at various levels and the extended retention period, ensures that users can confidently remove items from their lists without the fear of permanently losing important information. This feature enhances the overall user experience and provides peace of mind when working with valuable data within the InterVal platform.
