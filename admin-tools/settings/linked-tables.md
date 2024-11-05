@@ -19,7 +19,7 @@ layout:
 
 # Linked Tables
 
-Across the InterVal system, various dropdown menu or multiple-choice fields are used. While we have tried to cover most possible choices you will need in the default settings, there might be instances where you require additional choices or drop down options. In this section, you can customize the options available dropdown menus and multiple-choice fields.
+**Across the InterVal system, various dropdown menu or multiple-choice fields are used. While we have tried to cover most possible choices you will need in the default settings, there might be instances where you require additional choices or drop down options. In this section, you can customize the options available dropdown menus and multiple-choice fields.**
 
 For example, if you have a property with a special flooring type like 'Italian marble' that is not listed in the default settings, you can add it directly here in the linked tables. Similarly, if there are too many options available for a particular field, causing delays in selection, you can choose to hide certain options from the system.
 
