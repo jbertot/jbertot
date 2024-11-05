@@ -19,11 +19,13 @@ layout:
 
 # General
 
-**The General Settings page allows you to configure organization-wide settings for InterVal. These settings apply to all users and projects within your organization, ensuring consistency and streamlining the valuation process. Currently, the primary setting available is the Default Map, which determines the default mapping service used throughout the platform. As InterVal evolves, additional general settings may be added to enhance customization and functionality.**
+**The General Settings page allows you to configure organization-wide settings for InterVal. These settings apply to all users and projects within your organization, ensuring consistency during the valuation process. Currently, the primary setting available is the 'Default Ma'p, which determines the default mapping service used throughout the platform. As InterVal evolves, additional maps and other general settings be added to enhance customization and functionality.**
 
-## 1 - Tab 1 - Default Map
+Review the numbered labels on the screenshots below and read the associated text to learn more about the different features on this page.
 
-The Maps tab within the General Settings allows you to define the default map view for your entire organization. By setting a default map, you ensure that all users within your organization start with a consistent view when accessing map-related features in InterVal. This tab provides a search functionality to easily locate a specific city and the ability to right-click on the map to precisely select the desired default center point. Keep in mind that individual users can override this setting on their profile page if needed.
+## Tab 1 - Default Map
+
+The Maps tab within the General Settings allows you to define the default map view for your entire organization. By setting a default map, you ensure that all users within your organization start with a consistent view when accessing map-related features in InterVal. This tab provides search functionality to easily locate a specific city and the ability to right-click on the map to precisely select the desired default center point. Keep in mind that individual users can override this setting on their profile page if needed.
 
 <figure><img src="../../.gitbook/assets/General Settings - Default Map" alt=""><figcaption><p>General Settings - Default Map</p></figcaption></figure>
 
