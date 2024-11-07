@@ -21,13 +21,15 @@ layout:
 
 **The Comparables Database is a crucial component of InterVal, allowing users to store, manage, and access a wide range of property data for various valuation projects. By maintaining a comprehensive database of comparables, valuers can streamline their work, ensure consistency, and make well-informed decisions based on relevant market data.**
 
+Review the numbered labels on the screenshots below and read the associated text to learn more about the different features on this page.
+
 InterVal supports multiple property types, including residential (apartments and houses), commercial (offices, retail shops, retail buildings, and parking), industrial (warehouses), and land. While each property type may have specific attributes and data fields, the overall structure and functionality of the comparables database remain consistent.
 
 <figure><img src="../../.gitbook/assets/Comparable Types" alt=""><figcaption><p>Comparable Types</p></figcaption></figure>
 
-For the purpose of this documentation, we will focus on the residential property type, specifically apartments. However, the instructions and processes outlined here can be easily adapted to other property types, with minor variations in the data fields and attributes.
+For the purpose of this documentation, we will focus on the residential property type, specifically apartments. However, the instructions and processes outlined here can be easily adapted to the other property types, with minor variations in the data fields and attributes.
 
-It is important to note that most of these properties might be located in specific buildings for which you might need to store specific information. In order to avoid duplicating your efforts, there is also a specific database with its own page/section for buildings.
+It is important to note that most of these properties might be located in specific buildings for which you might need to store specific information. In order to avoid duplicating your efforts, InterVal hosts a specific database with its own page/section for buildings.
 
 Users can add comparables to the database through this dedicated section, ensuring that the information is easily accessible for future projects. Additionally, InterVal allows users to input comparables directly during the valuation process, providing a seamless and efficient workflow.
 
