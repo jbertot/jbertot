@@ -36,7 +36,7 @@ This feature allows you to track all payments related to a project and its invoi
 **5 - Amount**: Full amount received.
 
 **6 - Comments**: Add any relevant comments.\
-_<mark style="color:orange;">**Example**</mark>_<mark style="color:orange;">:</mark> <mark style="color:orange;"></mark>_<mark style="color:orange;">Payment received in two parts due to transaction limits.</mark>_
+&#xNAN;_<mark style="color:orange;">**Example**</mark>_<mark style="color:orange;">:</mark> <mark style="color:orange;"></mark>_<mark style="color:orange;">Payment received in two parts due to transaction limits.</mark>_
 
 ## 2 - Payment Table
 
@@ -55,7 +55,7 @@ The settlement feature allows you to write off a small amount when the balance i
 **1 - Amount**: Enter the amount to be written off (it can be negative).
 
 **2 - Comments**: Add comments to explain the settlement.\
-_<mark style="color:orange;">**Example**</mark><mark style="color:orange;">: Write-off due to bank transfer fees.</mark>_
+&#xNAN;_<mark style="color:orange;">**Example**</mark><mark style="color:orange;">: Write-off due to bank transfer fees.</mark>_
 
 <figure><img src="../../.gitbook/assets/CleanShot 2024-05-28 at 06.36.07@2x.png" alt=""><figcaption><p>Bringing Balance to zero</p></figcaption></figure>
 

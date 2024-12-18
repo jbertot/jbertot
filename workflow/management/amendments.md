@@ -53,7 +53,7 @@ Here you can either remove a target property or abort the ToE.
 3. **Date of Amendment**: The date of the amendment.&#x20;
 4. **Target Properties**: Select the target properties you wish to remove from the assignment.&#x20;
 5. **Reason for Removal**: Provide the reason for removing the property. \
-   _<mark style="color:orange;">**Example**</mark>_<mark style="color:orange;">:</mark> <mark style="color:orange;"></mark>_<mark style="color:orange;">Property sold to another buyer.</mark>_&#x20;
+   &#xNAN;_<mark style="color:orange;">**Example**</mark>_<mark style="color:orange;">:</mark> <mark style="color:orange;"></mark>_<mark style="color:orange;">Property sold to another buyer.</mark>_&#x20;
 6. **Affect Completion Date**: Indicate if this affects the completion date. If yes, enter a new date.&#x20;
 7. **Affect Contract Amount**: Indicate if this affects the total amount of the contract.
 
@@ -63,4 +63,4 @@ Here you can either remove a target property or abort the ToE.
 
 1. **Remove Amendment**: Click on "-" to remove this amendment.&#x20;
 2. **Reason for Aborting**: Provide the reason for aborting the ToE. \
-   _<mark style="color:orange;">**Example**</mark>_<mark style="color:orange;">:</mark> <mark style="color:orange;"></mark>_<mark style="color:orange;">Client requested to halt the project due to budget constraints.</mark>_
+   &#xNAN;_<mark style="color:orange;">**Example**</mark>_<mark style="color:orange;">:</mark> <mark style="color:orange;"></mark>_<mark style="color:orange;">Client requested to halt the project due to budget constraints.</mark>_

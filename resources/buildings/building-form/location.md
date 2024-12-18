@@ -33,7 +33,7 @@ The Location tab is designed to provide comprehensive information about the prop
 6. **Location Grade:** Select the location grade of the property from A+ to E-. This grade assesses the quality and desirability of the property's location.
 7. **Address:** Enter the full address of the property.
 8. **Location and Surroundings Description:** Provide a detailed description of the property's location and its surroundings.\
-   _<mark style="color:orange;">**Example:**</mark> <mark style="color:orange;"></mark><mark style="color:orange;">The property is located in the heart of Mayfair, one of London's most prestigious neighborhoods. This prime location is known for luxury residences, high-end retail stores, and exclusive restaurants. It is near Hyde Park, Buckingham Palace, and Grosvenor Square. The area offers excellent transport links, with Green Park and Bond Street Underground stations nearby. Mayfair provides world-class dining, luxury shopping on Bond Street, and cultural attractions such as the Royal Academy of Arts, making it a highly desirable address in London.</mark>_
+   &#xNAN;_<mark style="color:orange;">**Example:**</mark> <mark style="color:orange;"></mark><mark style="color:orange;">The property is located in the heart of Mayfair, one of London's most prestigious neighborhoods. This prime location is known for luxury residences, high-end retail stores, and exclusive restaurants. It is near Hyde Park, Buckingham Palace, and Grosvenor Square. The area offers excellent transport links, with Green Park and Bond Street Underground stations nearby. Mayfair provides world-class dining, luxury shopping on Bond Street, and cultural attractions such as the Royal Academy of Arts, making it a highly desirable address in London.</mark>_
 
 ## 2 - Parcel Identification & Land Area
 
@@ -50,9 +50,9 @@ The Location tab is designed to provide comprehensive information about the prop
 9. **Planning Status of Land Parcel:** Select the current planning status (e.g., Commercial).
 10. **Quality of Soil and Degradation:** Indicate the condition of the soil (e.g., Degraded).
 11. **Environmental Considerations:** Note any environmental factors impacting the land. \
-    _<mark style="color:orange;">**Example:**</mark> <mark style="color:orange;"></mark><mark style="color:orange;">"Proximity to a protected wetland area."</mark>_
+    &#xNAN;_<mark style="color:orange;">**Example:**</mark> <mark style="color:orange;"></mark><mark style="color:orange;">"Proximity to a protected wetland area."</mark>_
 12. **Other Considerations:** Additional remarks or considerations regarding the land parcel. \
-    _<mark style="color:orange;">**Example:**</mark> <mark style="color:orange;"></mark><mark style="color:orange;">"Historic site with archaeological significance."</mark>_
+    &#xNAN;_<mark style="color:orange;">**Example:**</mark> <mark style="color:orange;"></mark><mark style="color:orange;">"Historic site with archaeological significance."</mark>_
 
 <figure><img src="../../../.gitbook/assets/CleanShot 2024-05-23 at 08.08.39@2x.png" alt=""><figcaption><p><strong>Adding Land Parcel Component</strong></p></figcaption></figure>
 

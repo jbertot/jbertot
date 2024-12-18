@@ -106,7 +106,7 @@
     * [Interactions List](workflow/management/audit-trail/interactions-list.md)
     * [Interaction Form](workflow/management/audit-trail/interaction-form.md)
   * [Online Repository](workflow/management/online-repository/README.md)
-    * [Intro](workflow/management/online-repository/intro.md)
+    * [Introduction to the Online Repository](workflow/management/online-repository/introduction-to-the-online-repository.md)
     * [Overview](workflow/management/online-repository/overview.md)
     * [Location](workflow/management/online-repository/location.md)
     * [Pictures](workflow/management/online-repository/pictures.md)

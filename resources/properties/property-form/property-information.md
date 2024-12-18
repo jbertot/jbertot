@@ -32,7 +32,7 @@ The Property Information tab is where detailed data about a specific property is
 5. **State of Repair**: Describe the current condition of the property.
 6. **Energy Efficiency Grade**: Rate the property's energy efficiency.
 7. **Property General Description**: Provide a general overview of the property.\
-   _<mark style="color:orange;">**Example:**</mark> <mark style="color:orange;"></mark><mark style="color:orange;">A spacious duplex apartment located on the 17th and 18th floors, featuring modern amenities and high-end finishes.</mark>_
+   &#xNAN;_<mark style="color:orange;">**Example:**</mark> <mark style="color:orange;"></mark><mark style="color:orange;">A spacious duplex apartment located on the 17th and 18th floors, featuring modern amenities and high-end finishes.</mark>_
 8. **Accommodation Layout**: Detail the room layout across different floors, including the total number of rooms, living rooms, bedrooms, etc.
 
 ## 2 - Internal Aspect
@@ -43,20 +43,20 @@ The Property Information tab is where detailed data about a specific property is
 2. **Ceilings**: Type of ceilings.
 3. **Walls and Partitions**: Type of walls and partitions.
 4. **Windows Comment**: Any additional notes about the windows.\
-   _<mark style="color:orange;">**Example:**</mark> <mark style="color:orange;"></mark><mark style="color:orange;">Large single-glaze windows providing ample natural light.</mark>_
+   &#xNAN;_<mark style="color:orange;">**Example:**</mark> <mark style="color:orange;"></mark><mark style="color:orange;">Large single-glaze windows providing ample natural light.</mark>_
 5. **Ceilings Comment**: Additional notes on the ceilings.\
-   _<mark style="color:orange;">**Example:**</mark> <mark style="color:orange;"></mark><mark style="color:orange;">Conventional ceilings with decorative molding.</mark>_
+   &#xNAN;_<mark style="color:orange;">**Example:**</mark> <mark style="color:orange;"></mark><mark style="color:orange;">Conventional ceilings with decorative molding.</mark>_
 6. **Walls and Partitions Comment**: Comments on the walls and partitions.\
-   _<mark style="color:orange;">**Example:**</mark> <mark style="color:orange;"></mark><mark style="color:orange;">Plaster slab walls in pristine condition.</mark>_
+   &#xNAN;_<mark style="color:orange;">**Example:**</mark> <mark style="color:orange;"></mark><mark style="color:orange;">Plaster slab walls in pristine condition.</mark>_
 7. **Floors**: Type of flooring used.
 8. **Bathroom Fittings**: Type of bathroom fittings.
 9. **Built-in Fittings**: List any built-in fittings available.
 10. **Floors Comment**: Additional notes on flooring.\
-    _<mark style="color:orange;">**Example:**</mark> <mark style="color:orange;"></mark><mark style="color:orange;">High-quality hardwood flooring throughout the living areas.</mark>_
+    &#xNAN;_<mark style="color:orange;">**Example:**</mark> <mark style="color:orange;"></mark><mark style="color:orange;">High-quality hardwood flooring throughout the living areas.</mark>_
 11. **Bathroom Fittings Comment**: Notes on bathroom fittings.\
-    _<mark style="color:orange;">**Example:**</mark> <mark style="color:orange;"></mark><mark style="color:orange;">Modern mirror fittings with integrated lighting.</mark>_
+    &#xNAN;_<mark style="color:orange;">**Example:**</mark> <mark style="color:orange;"></mark><mark style="color:orange;">Modern mirror fittings with integrated lighting.</mark>_
 12. **Other**: Specify other internal features not listed.\
-    _<mark style="color:orange;">**Example:**</mark> <mark style="color:orange;"></mark><mark style="color:orange;">Custom-built closets in all bedrooms.</mark>_
+    &#xNAN;_<mark style="color:orange;">**Example:**</mark> <mark style="color:orange;"></mark><mark style="color:orange;">Custom-built closets in all bedrooms.</mark>_
 
 ## 3 - Grounds & External Areas
 
@@ -65,12 +65,12 @@ The Property Information tab is where detailed data about a specific property is
 1. **Dedicated Indoor Garage**: Number of indoor parking spaces.
 2. **Dedicated Outdoor Parking**: Number of outdoor parking spaces.
 3. **Garage Comments**: Notes on the garage.\
-   _<mark style="color:orange;">**Example:**</mark> <mark style="color:orange;"></mark><mark style="color:orange;">No indoor garage available, street parking permitted.</mark>_
+   &#xNAN;_<mark style="color:orange;">**Example:**</mark> <mark style="color:orange;"></mark><mark style="color:orange;">No indoor garage available, street parking permitted.</mark>_
 4. **Outdoor Parking Comments**: Comments on outdoor parking.\
-   _<mark style="color:orange;">**Example:**</mark> <mark style="color:orange;"></mark><mark style="color:orange;">Limited outdoor parking space available on a first-come, first-served basis.</mark>_
+   &#xNAN;_<mark style="color:orange;">**Example:**</mark> <mark style="color:orange;"></mark><mark style="color:orange;">Limited outdoor parking space available on a first-come, first-served basis.</mark>_
 5. **External Areas**: Indicate any external areas like balconies, terraces, etc.
 6. **External Area Comments**: Notes on the external areas.\
-   _<mark style="color:orange;">**Example:**</mark> <mark style="color:orange;"></mark><mark style="color:orange;">Spacious balcony with panoramic city views.</mark>_
+   &#xNAN;_<mark style="color:orange;">**Example:**</mark> <mark style="color:orange;"></mark><mark style="color:orange;">Spacious balcony with panoramic city views.</mark>_
 
 ## 4 - Sizes
 

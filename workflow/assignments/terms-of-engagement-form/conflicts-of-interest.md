@@ -43,12 +43,12 @@ Once a conflict is identified, and if the valuer is still able to proceed with t
 1. **Conflict of Interest Confirmation:** When clicking "Yes" to a conflict of interest, it will display additional questions to gather more details.
 2. **Conflict Type:** Select "No," "Potential," or "Yes." Clicking "Potential" or "Yes" will display additional questions to further specify the conflict.
 3. **Nature of the (Potential) Conflict(s):** Provide a detailed description of the conflict.\
-   _<mark style="color:orange;">**Example:**</mark> <mark style="color:orange;"></mark><mark style="color:orange;">The agency is involved in a project with a competitor of the client, which may affect impartiality.</mark>_
+   &#xNAN;_<mark style="color:orange;">**Example:**</mark> <mark style="color:orange;"></mark><mark style="color:orange;">The agency is involved in a project with a competitor of the client, which may affect impartiality.</mark>_
 4. **Mitigation Strategy:** Outline the steps taken to mitigate the conflict of interest.\
-   _<mark style="color:orange;">**Example:**</mark> <mark style="color:orange;"></mark><mark style="color:orange;">Agreeing to put an information barrier in place to prevent access to sensitive information by conflicting parties.</mark>_
+   &#xNAN;_<mark style="color:orange;">**Example:**</mark> <mark style="color:orange;"></mark><mark style="color:orange;">Agreeing to put an information barrier in place to prevent access to sensitive information by conflicting parties.</mark>_
 5. **Type of Conflict:** Specify the type of conflict.\
-   _<mark style="color:orange;">**Example:**</mark> <mark style="color:orange;"></mark><mark style="color:orange;">Financial interest, personal relationship, or competitive business involvement.</mark>_
+   &#xNAN;_<mark style="color:orange;">**Example:**</mark> <mark style="color:orange;"></mark><mark style="color:orange;">Financial interest, personal relationship, or competitive business involvement.</mark>_
 6. **Appropriate Parties:** Identify the parties involved in the conflict.\
-   _<mark style="color:orange;">**Example:**</mark> <mark style="color:orange;"></mark><mark style="color:orange;">The valuer, client, and competitor.</mark>_
+   &#xNAN;_<mark style="color:orange;">**Example:**</mark> <mark style="color:orange;"></mark><mark style="color:orange;">The valuer, client, and competitor.</mark>_
 7. **Reason to Continue:** Justify why the assignment can proceed despite the conflict.\
-   _<mark style="color:orange;">**Example:**</mark> <mark style="color:orange;"></mark><mark style="color:orange;">The conflict is manageable with proper mitigation strategies, and the client has given informed consent.</mark>_
+   &#xNAN;_<mark style="color:orange;">**Example:**</mark> <mark style="color:orange;"></mark><mark style="color:orange;">The conflict is manageable with proper mitigation strategies, and the client has given informed consent.</mark>_

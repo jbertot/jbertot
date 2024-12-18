@@ -27,7 +27,7 @@ This tab is where you define how and when the valuation report will be handled a
 
 1. **Report Delivery Method:** Choose how the reports will be handled to the client. Options include hard copy delivered by hand, soft copy (PDF) delivered by email, and multimedia support.
 2. **Support Clarifications:** Specify any important details regarding the delivery of documents.\
-   _<mark style="color:orange;">**Example:**</mark> <mark style="color:orange;"></mark><mark style="color:orange;">If the report is to be delivered by hand, indicate the preferred time and location.</mark>_
+   &#xNAN;_<mark style="color:orange;">**Example:**</mark> <mark style="color:orange;"></mark><mark style="color:orange;">If the report is to be delivered by hand, indicate the preferred time and location.</mark>_
 
 ## 2 - Operation dates
 
