@@ -30,18 +30,18 @@ layout:
 * [ ] [**1 - Understand InterVal:**](../introduction/master.md) Learn about InterVal’s features and benefits.
 * [ ] [**2 - Log In:**](../introduction/login.md) Use your credentials to access the system.
 * [ ] [**3 - Explore the Interface:**](../introduction/dashboard.md) Familiarize yourself with the layout and key features.
-* [ ] [**4 - Configure General Settings:**](../../admin-tools/settings/general.md) Customize your InterVal experience.
-* [ ] [**5 - Add Valuation Countries:**](../../resources/locations/countries.md) Specify the countries where your team will perform valutions.
-* [ ] [**6 - Input Cities:**](../../resources/locations/cities.md) Add cities for more precise customization.
-* [ ] [**7 - Set Up Your Agency:**](../../stakeholders/agencies/) Create your agency profile.
-* [ ] [**8 - Manage User Information:**](../../stakeholders/users/) Edit personal info and add additional users if needed.
+* [ ] [**4 - Configure General Settings:**](../../documentation/admin-tools/settings/general.md) Customize your InterVal experience.
+* [ ] [**5 - Add Valuation Countries:**](../../documentation/resources/locations/countries.md) Specify the countries where your team will perform valutions.
+* [ ] [**6 - Input Cities:**](../../documentation/resources/locations/cities.md) Add cities for more precise customization.
+* [ ] [**7 - Set Up Your Agency:**](../../documentation/stakeholders/agencies/) Create your agency profile.
+* [ ] [**8 - Manage User Information:**](../../documentation/stakeholders/users/) Edit personal info and add additional users if needed.
 
 ## 2 - Advanced
 
-* [ ] [**9 - Define User Roles:**](../../stakeholders/users/user-roles.md) Manage access rights and permissions.
-* [ ] [**10 - Learn about the Trash System:**](../../admin-tools/miscellaneous/trash-system.md) Understand data management for deleted items.
-* [ ] [**11 - Discover Tooltips**](../../admin-tools/settings/tooltips.md)**:** Utilize tooltips for feature guidance.
-* [ ] [**12 - Master Linked Tables:**](../../admin-tools/settings/linked-tables.md) Establish relationships between data entities.
-* [ ] [**13 - Utilize Templates:**](../../admin-tools/miscellaneous/templates.md) Create reusable templates for valuations and reports.
+* [ ] [**9 - Define User Roles:**](../../documentation/stakeholders/users/user-roles.md) Manage access rights and permissions.
+* [ ] [**10 - Learn about the Trash System:**](../../documentation/admin-tools/miscellaneous/trash-system.md) Understand data management for deleted items.
+* [ ] [**11 - Discover Tooltips**](../../documentation/admin-tools/settings/tooltips.md)**:** Utilize tooltips for feature guidance.
+* [ ] [**12 - Master Linked Tables:**](../../documentation/admin-tools/settings/linked-tables.md) Establish relationships between data entities.
+* [ ] [**13 - Utilize Templates:**](../../documentation/admin-tools/miscellaneous/templates.md) Create reusable templates for valuations and reports.
 
 By following these steps, you willl soon master InterVal and unlock its full potential for your valuation needs.
