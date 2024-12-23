@@ -15,7 +15,7 @@ The market data page allows users to select the market evidence for their income
 9. **Reset:** use this field to reset your searching criteria
 10. **Map:** All comparables answering to the user’s search criteria will be displayed on the map
 
-<figure><img src="../../.gitbook/assets/image (47).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (47).png" alt=""><figcaption></figcaption></figure>
 
 ### 2 – Comparable overview table <a href="#id-2-2---comparable-overview-table" id="id-2-2---comparable-overview-table"></a>
 
@@ -26,4 +26,4 @@ The market data page allows users to select the market evidence for their income
 5. **View:** users can peek at the comparable details by clicking on the blue eye icon.
 6. **Delete:** if necessary, users can remove a comparable from the list by clicking on the red bin icon
 
-<figure><img src="../../.gitbook/assets/image (48).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (48).png" alt=""><figcaption></figcaption></figure>

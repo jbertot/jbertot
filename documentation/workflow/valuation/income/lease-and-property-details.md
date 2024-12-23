@@ -18,7 +18,7 @@ The lease and property details page allows users to record all the leases and ot
 10. **Type:** This column shows whether or not the lease is an existing one or one assumed by the valuer for this specific valuation (which may require making appropriate assumptions).
 11. **Actions:** Users can either edit an existing lease (blue edit icon) or delete it (red bin icon)
 
-<figure><img src="../../.gitbook/assets/image (43).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (43).png" alt=""><figcaption></figcaption></figure>
 
 #### B – Other property revenues and costs table <a href="#id-3-b---other-property-revenues-and-costs-table" id="id-3-b---other-property-revenues-and-costs-table"></a>
 
@@ -34,7 +34,7 @@ The lease and property details page allows users to record all the leases and ot
 10. **Type:** This column shows whether or not the revenue or expense is an existing one or one assumed by the valuer for this specific valuation (which may require making appropriate assumptions).
 11. **Actions:** Users can either edit an existing revenue or expense (blue edit icon) or delete it (red bin icon).
 
-<figure><img src="../../.gitbook/assets/image (44).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (44).png" alt=""><figcaption></figcaption></figure>
 
 ### 2 - The Form <a href="#id-4-2---the-form" id="id-4-2---the-form"></a>
 
@@ -55,7 +55,7 @@ The lease and property details page allows users to record all the leases and ot
 13. **Capital payment:** a capital payment by the landlord to the tenant or conversely may be considered as an incentive and must be carefully analysed
 14. **Unexpired lease terms (years):** field automatically calculated based on the lease start date and current date.
 
-<figure><img src="../../.gitbook/assets/image (45).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (45).png" alt=""><figcaption></figcaption></figure>
 
 #### B - Leasehold Terms – Rent: <a href="#id-6-b-leasehold-terms-rent" id="id-6-b-leasehold-terms-rent"></a>
 
@@ -69,4 +69,4 @@ The lease and property details page allows users to record all the leases and ot
 19. **Recoverable / non recoverable:** Use this section to entre all subsidiary costs linked to the lease such as recoverable expense paid by the tenant to the landlord (to cover property management fees, utilities, or maintenance & operations fees for instance) or non-recoverable (out of pocket expenses incurred directly by the landlord) usually not part of the lease contract itself.
 20. **Notes:** use this field to enter any additional relevant information you may have on the lease such as particular covenants or easements for instance that are not directly captured by Interval.
 
-<figure><img src="../../.gitbook/assets/image (46).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (46).png" alt=""><figcaption></figcaption></figure>

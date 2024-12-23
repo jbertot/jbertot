@@ -12,7 +12,7 @@ The preliminaries review form gives users the possibility to review the inputs s
 4. **Add assumptions / special assumption / departure:** If applicable, use this field to add new assumptions, special assumptions or departures for the valuation. Users can select from the existing databases or add a completely new entry.
 5. **Status:** this field shows whether the entry is valid or not for the valuation.
 
-<figure><img src="../../.gitbook/assets/image (39).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (39).png" alt=""><figcaption></figcaption></figure>
 
 ### 2 - VPGA 10 <a href="#id-2-2---vpga-10" id="id-2-2---vpga-10"></a>
 
@@ -30,4 +30,4 @@ The preliminaries review form gives users the possibility to review the inputs s
 4. **Edit:** user may justify the absence of a document by including an assumption or special assumption. Those entries will be reflected in the report.
 5. **Delete:** user may chose to delete an assumption or special assumption deemed not necessary. Any changes will be marked in the valuation audit trail.
 
-<figure><img src="../../.gitbook/assets/image (40).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (40).png" alt=""><figcaption></figcaption></figure>

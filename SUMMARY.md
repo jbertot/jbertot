@@ -132,6 +132,12 @@
       * [Adjustments](documentation/workflow/valuation/comparable/adjustments.md)
       * [Preliminaries review](documentation/workflow/valuation/comparable/preliminaries-review.md)
       * [Summary](documentation/workflow/valuation/comparable/summary.md)
+    * [Income](documentation/workflow/valuation/income/README.md)
+      * [Summary](documentation/workflow/valuation/income/summary.md)
+      * [Preliminaries Review](documentation/workflow/valuation/income/preliminaries-review.md)
+      * [Valuation](documentation/workflow/valuation/income/valuation.md)
+      * [Lease and Property Details](documentation/workflow/valuation/income/lease-and-property-details.md)
+      * [Market Data](documentation/workflow/valuation/income/market-data.md)
     * [Miscellaneous](documentation/workflow/valuation/miscellaneous/README.md)
       * [Liquidation Value](documentation/workflow/valuation/miscellaneous/liquidation-value.md)
       * [Adding Scenarios](documentation/workflow/valuation/miscellaneous/adding-scenarios.md)
@@ -147,12 +153,6 @@
 
 ## Product Updates and FAQ
 
-* [Income](product-updates-and-faq/income/README.md)
-  * [Summary](product-updates-and-faq/income/summary.md)
-  * [Preliminaries Review](product-updates-and-faq/income/preliminaries-review.md)
-  * [Valuation](product-updates-and-faq/income/valuation.md)
-  * [Lease and Property Details](product-updates-and-faq/income/lease-and-property-details.md)
-  * [Market Data](product-updates-and-faq/income/market-data.md)
 * [FAQs](product-updates-and-faq/faqs/README.md)
   * [Measurement Reporting](product-updates-and-faq/faqs/measurement-reporting.md)
 * [Product Updates](product-updates-and-faq/product-updates.md)

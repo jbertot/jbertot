@@ -5,11 +5,11 @@
 1. **Explicit / Implicit valuation:** Users have the possibility to choose which income method will be used to assess the value of the property. Users can either opt for implicit income capitalisation methods or an explicit Discounted Cash Flow. \[EF1]&#x20;
 2. **Valuation date:** Use this field to indicate the valuation date. This will be used as reference to calculate the remaining leases durations across the property.
 
-<figure><img src="../../.gitbook/assets/image (41).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (41).png" alt=""><figcaption></figcaption></figure>
 
 ### 2 – Valuation <a href="#id-2-2---valuation" id="id-2-2---valuation"></a>
 
-<figure><img src="../../.gitbook/assets/image (42).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (42).png" alt=""><figcaption></figcaption></figure>
 
 1. **Timing of Cash Flow:** the valuation models can be tailored to factor the timing of cash flow: user can assume payments are received annually in arrear or quarterly in advance. This impacts the present value of future cash flow.
 2. **Exchange rate:** If the lease currency is different than the country currency, users are prompted to enter an exchange rate that will be used to convert the results of the valuation.
