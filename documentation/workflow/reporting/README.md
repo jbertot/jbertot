@@ -19,3 +19,4 @@ layout:
 
 # Reporting
 
+## &#x20;<a href="#article-title" id="article-title"></a>
