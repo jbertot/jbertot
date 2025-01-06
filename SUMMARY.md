@@ -1,14 +1,10 @@
 # Table of contents
 
+* [Home](README.md)
+
 ## ONBOARDING
 
-* [Managing your account](README.md)
-  * [Account Setup and Access](onboarding/managing-your-account/account-setup-and-access.md)
-  * [Profile & Account](onboarding/managing-your-account/profile-and-account.md)
-  * [Licenses & Users](onboarding/managing-your-account/licenses-and-users.md)
-  * [Plans & Billing](onboarding/managing-your-account/plans-and-billing.md)
-  * [Account Management FAQ](onboarding/managing-your-account/account-management-faq.md)
-* [Introduction](<README (1).md>)
+* [Introduction](<README (1) (1).md>)
   * [About InterVal](onboarding/introduction/master.md)
   * [Login Page](onboarding/introduction/login.md)
   * [Dashboard & Navigation](onboarding/introduction/dashboard.md)
@@ -27,10 +23,16 @@
   * [Draft Statement](onboarding/outputs/draft-statement.md)
   * [Audit Trail](onboarding/outputs/audit-trail.md)
   * [Files Repository](onboarding/outputs/files-repository.md)
+* [Managing your account](<README (1).md>)
+  * [Account Setup and Access](onboarding/managing-your-account/account-setup-and-access.md)
+  * [Profile & Account](onboarding/managing-your-account/profile-and-account.md)
+  * [Licenses & Users](onboarding/managing-your-account/licenses-and-users.md)
+  * [Plans & Billing](onboarding/managing-your-account/plans-and-billing.md)
+  * [Account Management FAQ](onboarding/managing-your-account/account-management-faq.md)
 
 ## Documentation
 
-* [STAKEHOLDERS](documentation/stakeholders/README.md)
+* [Stakeholders](documentation/stakeholders/README.md)
   * [Users](documentation/stakeholders/users/README.md)
     * [Users List](documentation/stakeholders/users/users-list.md)
     * [User Form](documentation/stakeholders/users/user-form.md)
@@ -39,7 +41,7 @@
     * [Agencies List](documentation/stakeholders/agencies/agencies-list.md)
     * [Agency Form](documentation/stakeholders/agencies/agency-form.md)
   * [Clients](documentation/stakeholders/clients.md)
-* [ADMIN TOOLS](documentation/admin-tools/README.md)
+* [Admin Tools](documentation/admin-tools/README.md)
   * [Project Management](documentation/admin-tools/project-management/README.md)
     * [Tasks](documentation/admin-tools/project-management/tasks.md)
     * [Financials](documentation/admin-tools/project-management/financials.md)
@@ -50,7 +52,7 @@
   * [Miscellaneous](documentation/admin-tools/miscellaneous/README.md)
     * [Templates](documentation/admin-tools/miscellaneous/templates.md)
     * [Trash System](documentation/admin-tools/miscellaneous/trash-system.md)
-* [RESOURCES](documentation/resources/README.md)
+* [Resources](documentation/resources/README.md)
   * [Properties](documentation/resources/properties/README.md)
     * [Properties List](documentation/resources/properties/properties-list.md)
     * [Property Form](documentation/resources/properties/property-form/README.md)
@@ -71,7 +73,7 @@
     * [Cities](documentation/resources/locations/cities.md)
     * [Landmarks](documentation/resources/locations/landmarks.md)
   * [Appendices](documentation/resources/appendices.md)
-* [WORKFLOW](documentation/workflow/README.md)
+* [Workflow](documentation/workflow/README.md)
   * [Reporting](documentation/workflow/reporting/README.md)
     * [Design](documentation/workflow/reporting/design.md)
     * [Valuation Matters](documentation/workflow/reporting/valuation-matters/README.md)

@@ -1,2 +1,2 @@
-# Managing your account
+# Home
 
