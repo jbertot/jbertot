@@ -1,11 +1,10 @@
 # Table of contents
 
-* [Home](README.md)
+* [About InterVal](README.md)
 
 ## ONBOARDING
 
 * [Introduction](<README (1) (1).md>)
-  * [About InterVal](onboarding/introduction/master.md)
   * [Login Page](onboarding/introduction/login.md)
   * [Dashboard & Navigation](onboarding/introduction/dashboard.md)
 * [Quick Start Guides](onboarding/quick-start-guides/README.md)

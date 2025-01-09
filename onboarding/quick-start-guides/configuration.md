@@ -27,7 +27,7 @@ layout:
 
 ## 1 - Mandatory first steps
 
-* [ ] [**1 - Understand InterVal:**](../introduction/master.md) Learn about InterVal’s features and benefits.
+* [ ] [**1 - Understand InterVal:**](../../) Learn about InterVal’s features and benefits.
 * [ ] [**2 - Log In:**](../introduction/login.md) Use your credentials to access the system.
 * [ ] [**3 - Explore the Interface:**](../introduction/dashboard.md) Familiarize yourself with the layout and key features.
 * [ ] [**4 - Configure General Settings:**](../../documentation/admin-tools/settings/general.md) Customize your InterVal experience.
