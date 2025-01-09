@@ -1,6 +1,6 @@
 # Table of contents
 
-* [About InterVal](README.md)
+* [Home](README.md)
 
 ## ONBOARDING
 

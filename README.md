@@ -17,13 +17,13 @@ layout:
     visible: true
 ---
 
-# About InterVal
+# Home
 
 <figure><img src=".gitbook/assets/Asset 2.png" alt="" width="375"><figcaption></figcaption></figure>
 
 **Welcome to InterVal, the revolutionary software package that is transforming the property valuation landscape. Designed to empower valuers, InterVal streamlines the real estate valuation process, improving efficiency, guaranteeing compliance, and delivering exceptional results.**
 
-{% embed url="https://www.youtube.com/watch?t=5s&v=QBHIKNIKRXo" %}
+{% embed url="https://www.youtube.com/watch?t=2s&v=hbr0EYr8Zo0" %}
 InterVal- Explainer Video
 {% endembed %}
 
