@@ -1,3 +1,8 @@
+---
+cover: ../../../../.gitbook/assets/inspection.png
+coverY: 0
+---
+
 # Measurement Reporting
 
 Valuers may be instructed to measure the property they are valuing as part of their scope of work. If engaged to do so, Interval provides an IPMS compliant measurement reporting framework. Additional measurement reporting standards will be included in the coming months, such as the RICS code of measuring practice for instance. In line with the RICS Global Red Book and IPMS standards, valuers are asked to provide the metadata pertaining to the measurement (date, scale of plan, tool, etc)
@@ -12,11 +17,11 @@ Valuers may be instructed to measure the property they are valuing as part of th
 6. **Scale of plan:** Please indicate the scale of the pan used to measure the property
 7. **Floor area schedule:** Especially if a plan is provided, valuer should ensure that it is intelligible for the users of the valuation, providing a floor area schedule schedule with relevant areas cross referenced to floorpans help doing so and is required by the IPMS.
 
-<figure><img src="../../.gitbook/assets/image (49).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (49).png" alt=""><figcaption></figcaption></figure>
 
 ### 2 – Sizes <a href="#id-2-2---sizes" id="id-2-2---sizes"></a>
 
 1. **Component areas:** IPMS breakdowns properties into component areas for the ease of identifying and reporting. They go from A to H and include elements such as vertical circulations and technical penetrations area, external and internal walls, living or working spaces, technical services, hygiene areas, etc). Some component areas are included in some IPMS while excluded from others, so please refer to the official IPMS standard and valuation instruction  before selecting the correct standard to measure your property. For the user’s guidance, the description of each component area is shown next to each letter in the table.
 2. **Size reporting:** Sizes are reported on a floor by floor basis. If the property has more than one floor, user need to enter information for each level of the property. Where applicable, the table makes the distinction between the usable and non-usable area within a component area, such as spaces with limited heights within a larger room with high ceiling. Under IPMS, limited use areas shall be deducted from the total area for the reporting.
 
-<figure><img src="../../.gitbook/assets/image (50).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (50).png" alt=""><figcaption></figcaption></figure>

@@ -104,6 +104,7 @@
     * [Inspection](documentation/workflow/investigation/inspection/README.md)
       * [Location & Building](documentation/workflow/investigation/inspection/location-and-building.md)
       * [Property Information](documentation/workflow/investigation/inspection/property-information.md)
+      * [Measurement Reporting](documentation/workflow/investigation/inspection/measurement-reporting.md)
       * [Condition Assessment](documentation/workflow/investigation/inspection/condition-assessment.md)
       * [Pictures, Videos & Others](documentation/workflow/investigation/inspection/pictures-videos-and-others.md)
     * [Logistics](documentation/workflow/investigation/logistics/README.md)
@@ -155,6 +156,5 @@
 
 ## Product Updates and FAQ
 
-* [FAQs](product-updates-and-faq/faqs/README.md)
-  * [Measurement Reporting](product-updates-and-faq/faqs/measurement-reporting.md)
+* [FAQs](product-updates-and-faq/faqs.md)
 * [Product Updates](product-updates-and-faq/product-updates.md)
