@@ -18,7 +18,7 @@ layout:
   outline:
     visible: true
   pagination:
-    visible: false
+    visible: true
 ---
 
 # Quick Start Guides
