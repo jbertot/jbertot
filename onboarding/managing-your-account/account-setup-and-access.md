@@ -24,7 +24,7 @@ To begin creating your InterVal account, start by visiting the InterVal website.
 * The **red arrow** points to the “Sign Up” button on the website, ensuring users can easily identify the starting point for registration.
 * Click on the **“Sign Up”** button to proceed to the registration form. This is where you will enter your details to create an account with InterVal.
 
-<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
 #### Step B: Selecting a Plan <a href="#id-3-step-b--selecting-a-plan" id="id-3-step-b--selecting-a-plan"></a>
 
@@ -43,7 +43,7 @@ After clicking the **“Sign Up”** button, you will be directed to the **Selec
      * **Yearly Billing**: Discounted to **US$1,788 per user/year** (equivalent to **US$149/month**).
      * This plan is tailored for valuation professionals and advanced Users, who require acces to advanced **Market** approaches as well as **Income (Capitalisation)** methodologies.
 
-<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 **Future Updates:**
 

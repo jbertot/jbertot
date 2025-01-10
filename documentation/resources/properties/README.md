@@ -19,3 +19,4 @@ layout:
 
 # Properties
 
+This section allows you to manage and organize property-related information within the InterVal platform. Use the properties list to view all registered properties or the property form to add and update property details. Navigate through the options below to streamline your property management tasks.

@@ -19,3 +19,5 @@ layout:
 
 # Quick Start Guides
 
+**Welcome to the Quick Start Guides!**\
+This section contains essential guides to help you get started with InterVal quickly and efficiently. Explore the articles below to configure your system, organize your data, and leverage powerful tools for comparable valuation and more.

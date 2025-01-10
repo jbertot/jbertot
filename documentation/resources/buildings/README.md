@@ -19,3 +19,4 @@ layout:
 
 # Buildings
 
+The Buildings section enables you to efficiently manage building-related data within the InterVal platform. Access the buildings list to view and organize existing entries or use the building form to add and update building information. Select an option below to get started.

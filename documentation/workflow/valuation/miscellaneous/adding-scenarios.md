@@ -25,6 +25,6 @@ In the course of the valuation process users may wish to try out different data 
 
 The add a scenario is actionable through the green addition symbol in the Action menu on the right of the task panel (1).
 
-<figure><img src="../../../../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 You can either choose to create a blank scenario based on the same valuation methodology as the first valuation (1), or duplicate the data and results of the existing valuation for further finetuning and adjustment (2)

@@ -19,4 +19,4 @@ layout:
 
 # Reporting
 
-## &#x20;<a href="#article-title" id="article-title"></a>
+The Reporting section focuses on creating, managing, and understanding reports within the InterVal platform. Whether you're designing reports or handling valuation matters, this section equips you with the tools and guidance to deliver accurate and insightful outputs. Explore the categories below to get started.

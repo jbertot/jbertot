@@ -19,3 +19,4 @@ layout:
 
 # Miscellaneous
 
+This section includes specialized valuation scenarios and methodologies, offering tools for unique and non-standard cases. From calculating liquidation values to conversions and effective rent scenarios, this section supports diverse valuation needs. Explore the options below to address specific requirements.

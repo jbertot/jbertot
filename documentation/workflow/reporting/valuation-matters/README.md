@@ -19,3 +19,4 @@ layout:
 
 # Valuation Matters
 
+The Valuation Matters subsection provides tools and insights for analyzing and summarizing property valuations. From target property summaries to comparable valuation summaries and detailed reports, this section equips you with everything needed for accurate and effective valuation reporting. Explore the options below to get started.

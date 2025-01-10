@@ -19,3 +19,4 @@ layout:
 
 # Logistics
 
+The Logistics section provides tools to manage and document logistical aspects of investigations. From understanding the background to detailing operational requirements, this section ensures that all logistical elements are thoroughly planned and recorded. Select an option below to explore further.

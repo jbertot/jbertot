@@ -19,3 +19,4 @@ layout:
 
 # Project Management
 
+This section equips you with tools to effectively manage your projects within InterVal. From overseeing tasks to tracking financials, you'll find everything you need to streamline project workflows and ensure success. Explore the options below to get started.

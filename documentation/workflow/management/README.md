@@ -19,3 +19,4 @@ layout:
 
 # Management
 
+The Management section provides comprehensive tools to oversee project workflows and administrative tasks within the InterVal platform. From starting and completing projects to managing payments, amendments, and maintaining an audit trail, this section supports effective project and process management. Explore the options below to streamline your operations.
