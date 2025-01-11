@@ -1,8 +1,8 @@
 ---
 description: >-
-  Welcome to the Quick Start Guides! This section contains essential guides to
-  help you get started with InterVal quickly and efficiently. Explore the
-  articles below to configure your system, organize
+  This section provides step-by-step instructions to help you quickly
+  familiarize yourself with InterVal. Whether you're configuring your setup,
+  organizing data, or performing valuations, these guides.
 cover: ../../.gitbook/assets/Guide.png
 coverY: 0
 layout:
@@ -12,15 +12,14 @@ layout:
   title:
     visible: false
   description:
-    visible: false
+    visible: true
   tableOfContents:
     visible: true
   outline:
     visible: true
   pagination:
-    visible: true
+    visible: false
 ---
 
 # Quick Start Guides
 
-This section contains essential guides to help you get started with InterVal quickly and efficiently. Explore the articles below to configure your system, organize your data, and leverage powerful tools for comparable valuation and more.
