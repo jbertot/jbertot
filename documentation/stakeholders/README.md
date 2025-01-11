@@ -1,17 +1,19 @@
 ---
+description: >-
+  This section outlines the different types of stakeholders in InterVal,
+  including users, agencies, and clients, and their roles within the platform.
 layout:
   title:
     visible: true
   description:
-    visible: false
+    visible: true
   tableOfContents:
     visible: true
   outline:
     visible: true
   pagination:
-    visible: true
+    visible: false
 ---
 
 # Stakeholders
 
-This section provides detailed information about the various stakeholders involved in your workflows. Learn more about managing users, engaging with clients, collaborating with agencies, and how these groups interact within the InterVal platform.

@@ -1,4 +1,8 @@
 ---
+description: >-
+  This section offers tools to add and manage property details, including
+  location, building info, lease and sales data, and related documents. Explore
+  features in simple or advanced mode.
 cover: ../../../../.gitbook/assets/properties.png
 coverY: 0
 layout:
@@ -8,15 +12,14 @@ layout:
   title:
     visible: true
   description:
-    visible: false
+    visible: true
   tableOfContents:
     visible: true
   outline:
     visible: true
   pagination:
-    visible: true
+    visible: false
 ---
 
 # Property Form
 
-The Property Form section provides a comprehensive toolset for adding and managing property details within the InterVal platform. Whether you're working in simple or advanced mode, this section covers everything from location and building information to lease and sales data, along with pictures and documents. Use the links below to explore each feature.

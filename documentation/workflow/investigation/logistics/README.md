@@ -1,4 +1,8 @@
 ---
+description: >-
+  This section provides tools to manage and document the logistical aspects of
+  investigations, ensuring operational requirements are thoroughly planned and
+  recorded.
 cover: ../../../../.gitbook/assets/logistics.png
 coverY: 0
 layout:
@@ -8,15 +12,14 @@ layout:
   title:
     visible: false
   description:
-    visible: false
+    visible: true
   tableOfContents:
     visible: true
   outline:
     visible: true
   pagination:
-    visible: true
+    visible: false
 ---
 
 # Logistics
 
-The Logistics section provides tools to manage and document logistical aspects of investigations. From understanding the background to detailing operational requirements, this section ensures that all logistical elements are thoroughly planned and recorded. Select an option below to explore further.

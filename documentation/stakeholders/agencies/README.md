@@ -1,4 +1,7 @@
 ---
+description: >-
+  This section provides guidance on managing agencies in InterVal, including
+  viewing agency lists and creating or editing agency profiles.
 cover: ../../../.gitbook/assets/Agencies.png
 coverY: 0
 layout:
@@ -8,15 +11,14 @@ layout:
   title:
     visible: false
   description:
-    visible: false
+    visible: true
   tableOfContents:
     visible: true
   outline:
     visible: true
   pagination:
-    visible: true
+    visible: false
 ---
 
 # Agencies
 
-This section provides tools and resources for managing agencies within the InterVal platform. Explore the agency list to view all registered agencies and use the agency form to add or update agency details. Navigate below to streamline your agency management processes.

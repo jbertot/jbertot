@@ -1,4 +1,8 @@
 ---
+description: >-
+  This section covers specialized valuation scenarios, including liquidation
+  values, rent conversions, and other non-standard cases, supporting diverse
+  valuation needs.
 cover: ../../../../.gitbook/assets/miscellaenous.png
 coverY: 0
 layout:
@@ -8,15 +12,14 @@ layout:
   title:
     visible: false
   description:
-    visible: false
+    visible: true
   tableOfContents:
     visible: true
   outline:
     visible: true
   pagination:
-    visible: true
+    visible: false
 ---
 
 # Miscellaneous
 
-This section includes specialized valuation scenarios and methodologies, offering tools for unique and non-standard cases. From calculating liquidation values to conversions and effective rent scenarios, this section supports diverse valuation needs. Explore the options below to address specific requirements.

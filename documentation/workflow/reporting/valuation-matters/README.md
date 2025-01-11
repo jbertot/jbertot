@@ -1,4 +1,8 @@
 ---
+description: >-
+  This subsection provides tools and insights for analyzing and summarizing
+  property valuations, including target property summaries and comparable
+  valuation reports.
 cover: ../../../../.gitbook/assets/valuation.png
 coverY: 0
 layout:
@@ -8,15 +12,14 @@ layout:
   title:
     visible: false
   description:
-    visible: false
+    visible: true
   tableOfContents:
     visible: true
   outline:
     visible: true
   pagination:
-    visible: true
+    visible: false
 ---
 
 # Valuation Matters
 
-The Valuation Matters subsection provides tools and insights for analyzing and summarizing property valuations. From target property summaries to comparable valuation summaries and detailed reports, this section equips you with everything needed for accurate and effective valuation reporting. Explore the options below to get started.

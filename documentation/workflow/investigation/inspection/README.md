@@ -1,4 +1,8 @@
 ---
+description: >-
+  This section provides tools and resources for detailed property and location
+  inspections, including condition assessments, measurement reporting, and
+  multimedia documentation.
 cover: ../../../../.gitbook/assets/inspection.png
 coverY: 0
 layout:
@@ -8,15 +12,14 @@ layout:
   title:
     visible: false
   description:
-    visible: false
+    visible: true
   tableOfContents:
     visible: true
   outline:
     visible: true
   pagination:
-    visible: true
+    visible: false
 ---
 
 # Inspection
 
-This section provides tools and resources to perform detailed inspections for properties and locations. From documenting location and building details to condition assessments, measurement reporting, and capturing multimedia evidence, this section supports thorough and accurate inspections. Explore the options below to get started.

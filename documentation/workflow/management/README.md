@@ -1,4 +1,8 @@
 ---
+description: >-
+  This section provides tools to oversee project workflows and administrative
+  tasks, from starting projects to managing payments, amendments, and
+  maintaining an audit trail.
 cover: ../../../.gitbook/assets/management.png
 coverY: 0
 layout:
@@ -8,15 +12,14 @@ layout:
   title:
     visible: false
   description:
-    visible: false
+    visible: true
   tableOfContents:
     visible: true
   outline:
     visible: true
   pagination:
-    visible: true
+    visible: false
 ---
 
 # Management
 
-The Management section provides comprehensive tools to oversee project workflows and administrative tasks within the InterVal platform. From starting and completing projects to managing payments, amendments, and maintaining an audit trail, this section supports effective project and process management. Explore the options below to streamline your operations.

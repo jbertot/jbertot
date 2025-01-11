@@ -1,4 +1,8 @@
 ---
+description: >-
+  This section offers a centralized view of system operations, including
+  administrative tasks and valuation modules, to streamline workflows and
+  enhance efficiency.
 cover: ../../../.gitbook/assets/dashboard.png
 coverY: 0
 layout:
@@ -8,15 +12,14 @@ layout:
   title:
     visible: false
   description:
-    visible: false
+    visible: true
   tableOfContents:
     visible: true
   outline:
     visible: true
   pagination:
-    visible: true
+    visible: false
 ---
 
 # Dashboard
 
-The Dashboard provides a comprehensive overview of the system's structure, administrative tasks, and valuation modules. It serves as a centralized area for users to monitor and manage key aspects of their operations effectively. Navigate through the available sections to explore the Dashboard's features and functionalities.

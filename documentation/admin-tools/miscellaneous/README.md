@@ -1,4 +1,7 @@
 ---
+description: >-
+  This section provides additional tools and features to enhance your use of the
+  InterVal platform, including templates and the trash system.
 cover: ../../../.gitbook/assets/miscellaneous.png
 coverY: 0
 layout:
@@ -8,15 +11,14 @@ layout:
   title:
     visible: false
   description:
-    visible: false
+    visible: true
   tableOfContents:
     visible: true
   outline:
     visible: true
   pagination:
-    visible: true
+    visible: false
 ---
 
 # Miscellaneous
 
-This section contains additional tools and features to support your use of the InterVal platform. From managing templates to utilizing the trash system, these options cover essential functionalities that don't fall under other categories. Explore the links below to learn more.

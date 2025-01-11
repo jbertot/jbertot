@@ -19,4 +19,4 @@ layout:
 
 # Assignments
 
-The Assignments module streamlines the process of managing and organizing tasks, agreements, and quotes within the system. It includes tools to access and create lists of assignments, review terms of engagement, and generate quotes. Each feature is designed to enhance operational efficiency and ensure seamless coordination between stakeholders.
+The Assignments module simplifies the management of tasks, agreements, and quotes, offering tools to create, review, and organize assignments efficiently.

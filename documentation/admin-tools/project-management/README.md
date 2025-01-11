@@ -1,4 +1,8 @@
 ---
+description: >-
+  This section provides tools to effectively manage your projects in InterVal.
+  From task tracking to financial oversight, streamline your workflows and
+  ensure project success.
 cover: ../../../.gitbook/assets/project.png
 coverY: 0
 layout:
@@ -8,15 +12,14 @@ layout:
   title:
     visible: false
   description:
-    visible: false
+    visible: true
   tableOfContents:
     visible: true
   outline:
     visible: true
   pagination:
-    visible: true
+    visible: false
 ---
 
 # Project Management
 
-This section equips you with tools to effectively manage your projects within InterVal. From overseeing tasks to tracking financials, you'll find everything you need to streamline project workflows and ensure success. Explore the options below to get started.

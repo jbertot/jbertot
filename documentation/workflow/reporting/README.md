@@ -1,4 +1,8 @@
 ---
+description: >-
+  This section focuses on creating, managing, and analyzing reports within
+  InterVal. Access tools and guidance to design reports and handle valuation
+  matters effectively.
 cover: ../../../.gitbook/assets/reporting.png
 coverY: 0
 layout:
@@ -8,15 +12,14 @@ layout:
   title:
     visible: false
   description:
-    visible: false
+    visible: true
   tableOfContents:
     visible: true
   outline:
     visible: true
   pagination:
-    visible: true
+    visible: false
 ---
 
 # Reporting
 
-The Reporting section focuses on creating, managing, and understanding reports within the InterVal platform. Whether you're designing reports or handling valuation matters, this section equips you with the tools and guidance to deliver accurate and insightful outputs. Explore the categories below to get started.

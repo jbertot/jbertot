@@ -1,4 +1,8 @@
 ---
+description: >-
+  This section allows you to manage geographical data, such as countries,
+  cities, and landmarks, to ensure accurate references in your property and
+  building records.
 cover: ../../../.gitbook/assets/locations.png
 coverY: 0
 layout:
@@ -6,17 +10,16 @@ layout:
     visible: true
     size: full
   title:
-    visible: true
-  description:
     visible: false
+  description:
+    visible: true
   tableOfContents:
     visible: true
   outline:
     visible: true
   pagination:
-    visible: true
+    visible: false
 ---
 
 # Locations
 
-The Locations section enables you to manage geographical data such as countries, cities, and landmarks within the InterVal platform. Use this section to organize location details and ensure accurate references in your property and building records. Select a category below to get started.

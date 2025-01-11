@@ -1,4 +1,8 @@
 ---
+description: >-
+  The Audit Trail section tracks interactions and activities within your
+  projects, ensuring comprehensive documentation and accountability through
+  tools like the Interactions List and Interaction Form.
 cover: ../../../../.gitbook/assets/audit.png
 coverY: 0
 layout:
@@ -6,17 +10,16 @@ layout:
     visible: true
     size: full
   title:
-    visible: true
-  description:
     visible: false
+  description:
+    visible: true
   tableOfContents:
     visible: true
   outline:
     visible: true
   pagination:
-    visible: true
+    visible: false
 ---
 
 # Audit Trail
 
-The Audit Trail section helps you track and manage interactions and activities within your projects. With tools like the Interactions List and Interaction Form, this section ensures comprehensive documentation and accountability. Select an option below to explore further.

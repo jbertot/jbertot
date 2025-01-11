@@ -1,3 +1,20 @@
+---
+description: >-
+  This section provides an overview of key processes within InterVal, including
+  reporting, valuation, investigation, and management, to ensure efficient and
+  accurate workflows.
+layout:
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: false
+---
+
 # Workflow
 
-The Workflow section provides a comprehensive overview of the key processes within the InterVal platform. From reporting and valuation to investigation, management, and assignments, this section guides you through each step to ensure efficiency and accuracy. Explore the categories below to enhance your workflows.

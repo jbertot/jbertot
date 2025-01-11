@@ -1,4 +1,7 @@
 ---
+description: >-
+  This section provides details on managing users within InterVal, including
+  user lists, roles, and forms for creating or updating user profiles.
 cover: ../../../.gitbook/assets/users.png
 coverY: 0
 layout:
@@ -8,15 +11,14 @@ layout:
   title:
     visible: false
   description:
-    visible: false
+    visible: true
   tableOfContents:
     visible: true
   outline:
     visible: true
   pagination:
-    visible: true
+    visible: false
 ---
 
 # Users
 
-This section focuses on managing user-related aspects of your InterVal platform. Discover how to view and manage the list of users, customize user roles, and utilize the user form to add or edit user information. Navigate through the options below to get started.
