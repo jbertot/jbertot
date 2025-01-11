@@ -1,4 +1,8 @@
 ---
+description: >-
+  The Target Properties subsection organizes and manages detailed property data
+  related to the quote, ensuring accurate documentation and streamlined
+  evaluation.
 cover: ../../../../../.gitbook/assets/quotes-tp.png
 coverY: 0
 layout:
@@ -8,15 +12,14 @@ layout:
   title:
     visible: false
   description:
-    visible: false
+    visible: true
   tableOfContents:
     visible: true
   outline:
     visible: true
   pagination:
-    visible: true
+    visible: false
 ---
 
 # Target Properties
 
-The **Target Properties** subsection provides a focused framework for detailing specific properties relevant to the quote. This section helps streamline the documentation and evaluation of target properties by organizing key information into manageable categories. From property lists to individual property forms, the structure ensures accuracy and clarity, supporting comprehensive decision-making during the assignment process.
