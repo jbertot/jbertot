@@ -23,7 +23,7 @@ The Dashboard in InterVal provides a centralized hub for managing your valuation
 
 <figure><img src="../../.gitbook/assets/Dashboard" alt=""><figcaption><p>Dashboard (Screenshot)</p></figcaption></figure>
 
-## 1 - Navigation Mx giodenu
+## 1 - Navigation
 
 <figure><img src="../../.gitbook/assets/Navigation (animated)" alt=""><figcaption><p>Navigation menu (animated)</p></figcaption></figure>
 
